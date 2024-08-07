@@ -1,4 +1,5 @@
 # Data Scientist: Natural Language Specialist
+[![Qodana](https://github.com/rasinnovation/codecademy_data-scientist-nlp/actions/workflows/qodana_code_quality.yml/badge.svg)](https://github.com/rasinnovation/codecademy_data-scientist-nlp/actions/workflows/qodana_code_quality.yml)
 
 Welcome to my repository! This repository is dedicated to documenting 
 my progress and archiving my work through Codecademy's __Data Scientist: 
